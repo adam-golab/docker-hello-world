@@ -1,5 +1,5 @@
 # Simple http 'hello world' for load balancer testing
-[![Docker Pulls](https://img.shields.io/docker/pulls/strm/helloworld-http.svg?style=plastic)](https://hub.docker.com/r/strm/helloworld-http/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/adamgolab/hello-world.svg)](https://hub.docker.com/r/adamgolab/hello-world/)
 
 This image is a simple 'Hello World' in an HTTP server to be used to test load balancers. When receive an request (GET /) this image will return the `Hello World`.
 
