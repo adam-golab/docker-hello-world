@@ -1,0 +1,22 @@
+{
+  "name": "docker-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World Docker image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-golab/docker-hello-world.git"
+  },
+  "author": "adam-golab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adam-golab/docker-hello-world/issues"
+  },
+  "homepage": "https://github.com/adam-golab/docker-hello-world#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
